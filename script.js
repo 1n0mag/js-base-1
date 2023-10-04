@@ -293,3 +293,57 @@ Infinity //Бесконечное множество, известная оши�
 // let a = 2 
 // let b = 10 
 // alert(a ** b)
+
+// let a = 1 false
+// let a = 0 true
+// let a = -3 false
+// console.log(a == 0 )
+
+// let a = 1 true
+// let a = 0 false
+// let a = -3 false
+// alert (a > 0)
+
+// let a = 1 false
+// let a = 0 false
+// let a = -3 true
+// alert (a<0)
+
+//  let a = 1 true
+// let a = 0 true
+// let a = -3 false
+// alert(a >= 0)
+
+// let a = 1 false
+// let a = 0 true
+//et a = -3 true
+// alert (a <= 0)
+
+// let a = 1 true
+// let a = 0 false
+// let a = -3 true
+
+// let test = "test"
+// let a = "test" true 
+// let a = "тест" false
+// let a = -3 false
+// alert(a == test )
+
+// let a = '1' true
+// let a = 1 false 
+// let a = 3 false 
+// alert (a === '1')
+
+// let test = true true
+// let test = false false 
+// alert (test == true)
+
+// let test = true false 
+// let test = false true
+// alert (test !== true)
+
+// let a = 5 false
+//let a = 0 false
+// let a = -3 false
+// let a = 2 true
+// alert(5>a>0)
